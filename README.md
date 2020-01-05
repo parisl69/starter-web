@@ -12,3 +12,4 @@ Sample website with plenty of files for demos
 
 Git training
 And adding something more
+All rights reserved
