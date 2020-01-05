@@ -9,3 +9,4 @@ Sample website with plenty of files for demos
 ## Copyright
 
 Git training
+And adding something more
